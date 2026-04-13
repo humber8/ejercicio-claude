@@ -392,9 +392,9 @@ export default Counter;`;
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-8">
+    <div className="min-h-screen bg-slate-900 flex items-center justify-center p-8">
       <div className="w-full max-w-md">
-        <Card 
+        <Card
           title="Amazing Product"
           description="This is a fantastic product that will change your life. Experience the difference today!"
           actions={
@@ -413,7 +413,7 @@ export default function App() {
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-8">
+    <div className="min-h-screen bg-slate-900 flex items-center justify-center p-8">
       <div className="w-full max-w-md">
         <${componentName} />
       </div>
